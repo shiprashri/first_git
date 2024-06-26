@@ -6,3 +6,7 @@ font
 
 dark option
 video call
+
+payment option:
+send money
+receive money
