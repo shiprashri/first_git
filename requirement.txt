@@ -1,0 +1,5 @@
+this is chat application :
+
+emoji 
+color
+font
