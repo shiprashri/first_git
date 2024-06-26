@@ -3,3 +3,6 @@ this is chat application :
 emoji 
 color
 font
+
+dark option
+video call
